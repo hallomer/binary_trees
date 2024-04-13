@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * is_bst_helper - Helper function to check if a binary tree is a valid BST
+ * is_bst - Helper function to check if a binary tree is a valid BST
  * @tree: pointer to the current node
  * @min: minimum value allowed
  * @max: maximum value allowed
